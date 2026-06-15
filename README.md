@@ -46,8 +46,7 @@ Here's a walkthrough of implemented required features:
 GIF created with giphy.com!
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Working through figuring out how to place the questions and answers in a flashcard was difficult, as previously we hadn't been switching the contents of the same property before. The implementation of a flipping animation was also a barrier to get over, as it involved numerous edits on the CSS end of the app. But overall, a bit of searching and utilizing provided resources brought the website together well! 
 
 ## License
 
