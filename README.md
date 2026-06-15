@@ -1,3 +1,4 @@
+<img width="480" height="350" alt="gif (1)" src="https://github.com/user-attachments/assets/8b6baff0-2f57-4b20-bc56-d6a648565db7" />
 # Web Development Project 2 - *Dog Breed Flashcards*
 
 Submitted by: **Allison Lee**
@@ -41,6 +42,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+<img width="480" height="350" alt="gif (1)" src="https://github.com/user-attachments/assets/c8ecca1c-ef76-48d8-afce-aa9133662714" />
 
 GIF created with giphy.com!
 
