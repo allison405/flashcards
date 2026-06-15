@@ -1,4 +1,3 @@
-<img width="480" height="350" alt="gif (1)" src="https://github.com/user-attachments/assets/8b6baff0-2f57-4b20-bc56-d6a648565db7" />
 # Web Development Project 2 - *Dog Breed Flashcards*
 
 Submitted by: **Allison Lee**
