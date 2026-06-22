@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<br>
 <img width="480" height="350" alt="gif (2)" src="https://github.com/user-attachments/assets/00234c3a-4c60-48ca-a1fc-461865c4e5e2" alt = "video walkthrough"/>
 
 =======
