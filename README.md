@@ -54,7 +54,9 @@ GIF created with giphy.com!
 ## Notes
 
 Changing the flashcards from completely random to ordered was a small adjustment to make, and so were the disabled arrows. The ability to submit an answer and have it checked meant implementing a form. A little harder part was figuring out the regex to allow answer matching without caring about cases or extra spacing, but it turned out quite nice for a user wanting to practice their dog breeds without having to care about the exact cases. 
+
 =======
+
 
 ## License
 
