@@ -44,9 +44,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img width="480" height="350" alt="gif (2)" src="https://github.com/user-attachments/assets/00234c3a-4c60-48ca-a1fc-461865c4e5e2" alt = "video walkthrough"/>
 
-<<<<<<< HEAD
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 =======
 
 GIF created with giphy.com!
